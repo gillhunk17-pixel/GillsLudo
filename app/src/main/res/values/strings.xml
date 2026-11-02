@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gill’s Ludo</string>
+    <!-- Google TEST ids. Replace with YOUR real ids only when publishing on Play Store. -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
